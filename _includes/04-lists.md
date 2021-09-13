@@ -1,1 +1,15 @@
-Replace this with a list of your favorite things.
+#### Interested Area 
+
+* AI 
+* Machine Learning 
+* IOT 
+* Programming 
+  * Python 
+  * Java 
+  * Javascript 
+  * C 
+  * HTML 
+  * CSS 
+
+
+  
